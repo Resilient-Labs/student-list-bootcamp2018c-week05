@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin:0;
+  background: url(back.jpeg)no-repeat center right fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  color: rgb(74,104,79);
+  font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+/***************************************
+
+*****************************************/
+section{
+  text-align: center;
+}
+
+button{
+  color: white;
+  background-color: rgb(74,104,79);
+  font-weight: bold;
+  border: none;
+  font-size: 1.3em;
+  padding: 5px 10px;
+}
+
+button:hover{
+  background-color: rgb(177,84,87);
+
+}
+
+h1{
+  font-size: 2em;
+}
+
+input{
+  border: none;
+  font-weight: bold;
+  font-size: 1.3em;
+  padding: 5px 10px;
+}
+
+ul{
+  font-size: 1.3em;
+  font-weight: bold;
+  text-align: left;
+  list-style-image: url('list3.png');
+  padding-left: 70px;
+}
+
+
+.content {
+  background-color: rgb(233,228,214, .7);
+  margin:10% 0 0 10%;
+  border-radius: 10px;
+  padding-bottom: 30px;
+}
+
+
+
+
+/***************************************
+
+*****************************************/
+
+
+/***************************************
+MEDIA QUERIES
+*****************************************/
+
+/* tablet */
+@media (min-width: 768px) and (max-width: 1023px){
+  body {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+  }
+}
+
+/* mobile */
+@media screen and (max-width: 767px){
+  body {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .content {
+    margin:10%;
+  }
+}
