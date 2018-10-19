@@ -1,24 +1,15 @@
 # 👩🏾‍🎓 Week05 Bootcamp2018c Project: Student List
 
-### Goal: Build a Simple Student List App For A Teacher
+Created an applicationn that would allow a teacher to take  the attendance of her class but also keep track of who is out or sick.
 
-Create a simple app where a teacher can enter student names as they arrive at class. The teacher should have the ability to press a button and see a list off all the students who have arrived.
+## How It's Made:
 
-### How to submit your code for review:
+**Tech used:** HTML, CSS, JavaScript
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+the bulk of this project came in the javascript however because of recent prjects that ive worked on this one was . bit easier to tackle becuse it was a similar approcach to a projedct id recently cpompleted
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Optimizations
+given more time id like to see if i could make the code dryer
+
+## Lessons Learned
+learned how take other projects and implement lessons ive learned to make the task at hand alot easier on myself
