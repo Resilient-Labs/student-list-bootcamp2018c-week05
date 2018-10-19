@@ -24,6 +24,6 @@ Take a look at these cool projects that I have in my portfolio:
 
 **To-Do List:** https://tender-ritchie-caee3b.netlify.com/
 
-**Slot Machine:** https://github.com/alecortega/twitter-battle
+**Slot Machine:** https://tender-brahmagupta-7fb0c7.netlify.com/
 
 **Carousel:** https://mystifying-stallman-5862e0.netlify.com/
