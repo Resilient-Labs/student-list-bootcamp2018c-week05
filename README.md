@@ -1,24 +1,20 @@
-# 👩🏾‍🎓 Week05 Bootcamp2018c Project: Student List
+# Student List
+Build a Simple Student List App For A Teacher. Create a simple app where a teacher can enter student names as they arrive at class. The teacher should have the ability to press a button and see a list off all the students who have arrived.
 
-### Goal: Build a Simple Student List App For A Teacher
+**Link to project:** https://pensive-kare-e17bef.netlify.com
 
-Create a simple app where a teacher can enter student names as they arrive at class. The teacher should have the ability to press a button and see a list off all the students who have arrived.
+![alt tag](stu.png)
 
-### How to submit your code for review:
+## How It's Made:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+**Tech used:** HTML5, CSS3, JavaScript.
+Styling for this project was done using a CSS Grid layout. Written in vanilla Javascript.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Examples:
+
+
+**OOP Calculator:** https://github.com/Eriquette/week01-alumni-project-calculator/tree/answer
+
+**Carousel Picture Gallery:** https://github.com/Eriquette/carousel-bootcamp2018c-week05/blob/answer
+
+**Daily Code Challenges:** https://github.com/Eriquette/Daily-Code-Challenges
